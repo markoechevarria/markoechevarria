@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko Echevarria</h1>
-<h3 align="center">I am a 20-year-old System Engineering student at the National Major University of San Marcos in Lima, Peru.</h3>
+<h3 align="center">I am a 20-year-old System Engineering student at the National Major University of San Marcos</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=markoechevarria&label=Profile%20views&color=0e75b6&style=flat" alt="markoechevarria" /> </p> -->
 
