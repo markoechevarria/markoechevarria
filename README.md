@@ -9,7 +9,7 @@
 
 💡 &nbsp;I enjoy exploring new technologies and learning about a wide range of topics.\
 🎓 &nbsp;I'm currently studying System Engineering at the Major Nacional University of San Marcos.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.
 <!-- ✉️ &nbsp;You can shoot me an email at markofidel10@gmail.com I'll try to respond as soon as I can.\
  📄 &nbsp;Please have a look at my [Résumé](soon...) for more details about me. I'm open to feedback and suggestions!
 -->
