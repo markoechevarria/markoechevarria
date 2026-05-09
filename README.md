@@ -13,19 +13,19 @@
 
 ## Tech Stack
 
-## Languages
+### Languages 
 Python • TypeScript • JavaScript • Kotlin • C++
 
-## Frameworks & Runtime
+### Frameworks & Runtime
 Angular • NestJs • Express.js • NodeJs
 
-## Data & ML Libraries
+### Data & ML Libraries
 Numpy • Pandas • Matplotlib • Scikit-Learn
 
-## Databases
+### Databases
 Microsoft SqlServer • PostgreSQL • MongoDb 
 
-## Tools & Platforms
+### Tools & Platforms
 Linux • Git • Docker • Firebase 
 
 ## Connect With Me
